@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: '#contact:test@example.org'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -54,12 +54,6 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - block: contact
-    content:
-      title: Contact
-      email: test@example.org
-      phone: 888 888 88 88
-
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
